@@ -4,13 +4,15 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is German Rodriguez. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Versatile and experienced technologist.
+- Hardcore pin collector.
+- Youth football Coach.
+- Sith Lord.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+For 20 years I have designed and implemented complex, highly available and scalable architectures for major international retail chains, airlines and financial stock markets, both on premises and on multiple public clouds, I am passionate about family, enjoy engaging and being an active community member.
